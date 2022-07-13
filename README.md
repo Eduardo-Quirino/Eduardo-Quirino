@@ -1,9 +1,9 @@
 ## Bem vindo ao meu repósitorio GitHub <br> Sou Eduardo Quirino, desenvolvedor web!
 
 <div align="center">
-  <a href="https://github.com/Eduardo-Quirino">
-  <img height="190px" src="https://github-readme-stats.vercel.app/api?username=eduardo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardo&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduardo-quirino&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardo-quirino&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 ##
